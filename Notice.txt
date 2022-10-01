@@ -1,0 +1,4 @@
+- Ouvrir Setup
+- une fois fait ouvrir Run
+- Vous devez avoir python
+- Si vous avez des question : Toxizz#9999
